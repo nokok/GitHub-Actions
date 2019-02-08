@@ -1,4 +1,4 @@
-FROM debian:10-slim
+FROM debian:9-slim
 
 LABEL "com.github.actions.name"="Hello World"
 LABEL "com.github.actions.description"="Write arguments to the standard output"
